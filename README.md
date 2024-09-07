@@ -16,6 +16,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hari-vasan&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hari-vasan&icon=2&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Hari-Vasan&label=User%20Engagements&color=9&icon=7&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
